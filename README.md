@@ -48,7 +48,7 @@ The confusion matrices below show how the model's weaknesses evolved across vers
 
 | v1 (~70%) | v2 (84.9%) | ResNet (93.4%) |
 |---|---|---|
-| ![v1](results/confusion_matrix_v1.png) | ![v2](results/confusion_matrix_v2.png) | ![resnet](results/confusion_matrix_resnet.png) |
+| ![v1](results/confusion_matrix_v1.png) | ![v2](results/confusion_matrix_dropout.png) | ![resnet](results/confusion_matrix_resnet.png) |
 
 ## Quickstart
 
